@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>click.mp3</file>
+        <file>explosion.wav</file>
+        <file>fundo.mp3</file>
+        <file>move.wav</file>
+        <file>tiro.wav</file>
+    </qresource>
+</RCC>
